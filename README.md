@@ -17,4 +17,4 @@ Individual contribution:
 
 231-115-038 (lutfa) : Providing the auth( user login, user logout, registration) panel sourcse code. Make the category and 404 option.
 
-231-115-036 (monika) : Provided the property related overall details and source code. Related images, our agents & leaders full info. 
+231-115-014 (monika) : Provided the property related overall details and source code. Related images, our agents & leaders full info. 
